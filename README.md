@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-Edho chesthunnan ra by naku dhelsu idhetlaina undadhu
+Just something going on
